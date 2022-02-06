@@ -1,0 +1,185 @@
+{
+  "questionone":[
+    {
+    "questionText":"zakaria ?",
+    "options":[{
+      "text":"zaoui",
+      "correct":true
+    },
+    {
+      "text":"lachkar"
+
+    },
+    {
+      "text":"hmida"
+
+    },
+    {
+      "text":"said"
+
+    }
+  ],
+  "explanation":"TS ues a colon (:) to seprate the property name from the property type"
+  },
+  {
+    "questionText":"what is your name a hmida ?",
+    "options":[{
+      "text":"abdelghafor"
+
+    },
+    {
+      "text":"lachkar",
+      "correct":true
+
+    },
+    {
+      "text":"hossam"
+
+    },
+    {
+      "text":"hmida"
+    }
+  ],
+  "explanation":"TS ues a colon (:) to seprate the property name from the property type"
+  },
+  {
+    "questionText":"hhhh specify types ?",
+    "options":[{
+      "text":":",
+      "correct":true
+    },
+    {
+      "text":"!"
+
+    },
+    {
+      "text":"&"
+
+    },
+    {
+      "text":";"
+    }
+  ],
+  "explanation":"TS ues a colon (:) to seprate the property name from the property type"
+  },
+  {
+    "questionText":"ok does Typesript?",
+    "options":[{
+      "text":":",
+      "correct":true
+    },
+    {
+      "text":"!"
+
+    },
+    {
+      "text":"&"
+
+    },
+    {
+      "text":";"
+    }
+  ],
+  "explanation":"TS ues a colon (:) to seprate the property name from the property type"
+  },
+  {
+    "questionText":"following yes ?",
+    "options":[{
+      "text":":",
+      "correct":true
+    },
+    {
+      "text":"!"
+
+    },
+    {
+      "text":"&"
+
+    },
+    {
+      "text":";"
+    }
+  ],
+  "explanation":"TS ues a colon (:) to seprate the property name from the property type"
+  },
+  {
+    "questionText":"which no ?",
+    "options":[{
+      "text":":",
+      "correct":true
+    },
+    {
+      "text":"!"
+
+    },
+    {
+      "text":"&"
+
+    },
+    {
+      "text":";"
+    }
+  ],
+  "explanation":"TS ues a colon (:) to seprate the property name from the property type"
+  },
+  {
+    "questionText":"which of yes ?",
+    "options":[{
+      "text":":",
+      "correct":true
+    },
+    {
+      "text":"!"
+
+    },
+    {
+      "text":"&"
+
+    },
+    {
+      "text":";"
+    }
+  ],
+  "explanation":"TS ues a colon (:) to seprate the property name from the property type"
+  },
+  {
+    "questionText":"ok ku ?",
+    "options":[{
+      "text":":",
+      "correct":true
+    },
+    {
+      "text":"!"
+
+    },
+    {
+      "text":"&"
+
+    },
+    {
+      "text":";"
+    }
+  ],
+  "explanation":"TS ues a colon (:) to seprate the property name from the property type"
+  },
+  {
+    "questionText":"whji hhhh h ?",
+    "options":[{
+      "text":":",
+      "correct":true
+    },
+    {
+      "text":"!"
+
+    },
+    {
+      "text":"&"
+
+    },
+    {
+      "text":";"
+    }
+  ],
+  "explanation":"TS ues a colon (:) to seprate the property name from the property type"
+  }]
+}
