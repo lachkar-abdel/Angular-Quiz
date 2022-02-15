@@ -8,8 +8,8 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 ## Image
 
-![Getting Started](./images/Quiz1.png)
-![Getting Started](images/Quiz1.png)
+![Getting Started](./src/assets/images/Quiz1.png)
+
 
 ## Code scaffolding
 
