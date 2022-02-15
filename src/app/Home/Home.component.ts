@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, ViewChild, ElementRef } from '@angular/core';
 
 @Component({
   selector: 'app-Home',
@@ -6,11 +6,14 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./Home.component.scss']
 })
 export class HomeComponent implements OnInit {
-
+  @ViewChild('name') namekey!: ElementRef;
 
   constructor() { }
 
-  ngOnInit() {
+  ngOnInit(): void {
   }
-
+  startQuiz()
+  {
+    localStorage.setItem("name",this.namekey.nativeElement.value);
+  }
 }

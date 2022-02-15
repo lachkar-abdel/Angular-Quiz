@@ -1,183 +1,184 @@
 {
   "questionone":[
     {
-    "questionText":"zakaria ?",
+    "questionText":"Which one is the first web browser inverser in 1990 ?",
     "options":[{
-      "text":"zaoui",
+      "text":"Nexus",
       "correct":true
     },
     {
-      "text":"lachkar"
+      "text":"Internet Explorer"
 
     },
     {
-      "text":"hmida"
+      "text":"Mozila"
 
     },
     {
-      "text":"said"
+      "text":"Mosaic"
 
     }
   ],
   "explanation":"TS ues a colon (:) to seprate the property name from the property type"
   },
   {
-    "questionText":"what is your name a hmida ?",
+    "questionText":"Which of the following programming language is used to create programs like applets ?",
     "options":[{
-      "text":"abdelghafor"
+      "text":"COBOL"
 
     },
     {
-      "text":"lachkar",
+      "text":"JAVA",
       "correct":true
 
     },
     {
-      "text":"hossam"
+      "text":"Language"
 
     },
     {
-      "text":"hmida"
+      "text":"BASIC"
     }
   ],
   "explanation":"TS ues a colon (:) to seprate the property name from the property type"
   },
   {
-    "questionText":"hhhh specify types ?",
+    "questionText":"Which one programming language is exclusively used for artificial intelligence ?",
     "options":[{
-      "text":":",
+      "text":"Prolog",
       "correct":true
     },
     {
-      "text":"!"
+      "text":"J2EE"
 
     },
     {
-      "text":"&"
+      "text":"JAVA"
 
     },
     {
-      "text":";"
+      "text":"C"
     }
   ],
   "explanation":"TS ues a colon (:) to seprate the property name from the property type"
   },
   {
-    "questionText":"ok does Typesript?",
+    "questionText":"Which of the following is not a database management software ?",
     "options":[{
-      "text":":",
+      "text":"COBOL",
       "correct":true
     },
     {
-      "text":"!"
+      "text":"Oracle"
 
     },
     {
-      "text":"&"
+      "text":"MySQL"
 
     },
     {
-      "text":";"
+      "text":"Sybase"
     }
   ],
   "explanation":"TS ues a colon (:) to seprate the property name from the property type"
   },
   {
-    "questionText":"following yes ?",
+    "questionText":"1024 bit is equal to how many byte ?",
     "options":[{
-      "text":":",
+      "text":"128 Byte",
       "correct":true
     },
     {
-      "text":"!"
+      "text":"1 Byte"
 
     },
     {
-      "text":"&"
+      "text":"32 Byte"
 
     },
     {
-      "text":";"
+      "text":"64 Byte"
     }
   ],
   "explanation":"TS ues a colon (:) to seprate the property name from the property type"
   },
   {
-    "questionText":"which no ?",
+    "questionText":"Mac Operating System is developed by which company ?",
     "options":[{
-      "text":":",
+      "text":"Apple",
       "correct":true
     },
     {
-      "text":"!"
+      "text":"IBM"
 
     },
     {
-      "text":"&"
+      "text":"Microsoft"
 
     },
     {
-      "text":";"
+      "text":"Samsung"
     }
   ],
   "explanation":"TS ues a colon (:) to seprate the property name from the property type"
   },
   {
-    "questionText":"which of yes ?",
+    "questionText":"which protocol is used to received e-mail ?",
     "options":[{
-      "text":":",
+      "text":"POP3",
       "correct":true
     },
     {
-      "text":"!"
+      "text":"SMTP"
 
     },
     {
-      "text":"&"
+      "text":"HTTP"
 
     },
     {
-      "text":";"
+      "text":"FTP"
     }
   ],
   "explanation":"TS ues a colon (:) to seprate the property name from the property type"
   },
   {
-    "questionText":"ok ku ?",
+    "questionText":"USB Hard disk is a _____________ type of storage device",
     "options":[{
-      "text":":",
+      "text":"Secondary",
       "correct":true
     },
     {
-      "text":"!"
+      "text":"Tertiary"
 
     },
     {
-      "text":"&"
+      "text":"Primary"
 
     },
     {
-      "text":";"
+      "text":"Auxillary"
     }
   ],
   "explanation":"TS ues a colon (:) to seprate the property name from the property type"
   },
   {
-    "questionText":"whji hhhh h ?",
+    "questionText":"Which of the following is the outcome of data processing ?",
     "options":[{
-      "text":":",
+      "text":"Software Program"
+      
+    },
+    {
+      "text":"Data"
+
+    },
+    {
+      "text":"System"
+
+    },
+    {
+      "text":"Information",
       "correct":true
-    },
-    {
-      "text":"!"
-
-    },
-    {
-      "text":"&"
-
-    },
-    {
-      "text":";"
     }
   ],
   "explanation":"TS ues a colon (:) to seprate the property name from the property type"
